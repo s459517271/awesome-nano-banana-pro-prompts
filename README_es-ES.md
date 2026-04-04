@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **12260** |
+| 📝 Total de prompts | **12259** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **sábado, 4 de abril de 2026, 0:10:53 UTC** |
+| 🔄 Última actualización | **sábado, 4 de abril de 2026, 4:33:38 UTC** |
 
 </div>
 
@@ -7010,7 +7010,7 @@ Me gustaría que la parte posterior y la parte inferior del escudo se vean reali
 
 <div align="center">
 
-### 🎯 12140 prompts más no mostrados aquí
+### 🎯 12139 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7073,6 +7073,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-04T00:10:53.556Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-04T04:33:38.468Z</sub>
 
 </div>

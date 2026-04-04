@@ -135,9 +135,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **12260** |
+| 📝 プロンプト総数 | **12259** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年4月4日土曜日 0:10:13 UTC** |
+| 🔄 最終更新 | **2026年4月4日土曜日 4:33:10 UTC** |
 
 </div>
 
@@ -7014,7 +7014,7 @@ Re : No.3 La Flamme Blanche
 
 <div align="center">
 
-### 🎯 12140 さらに多くのプロンプトがあります
+### 🎯 12139 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7077,6 +7077,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-04-04T00:10:13.232Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-04-04T04:33:10.425Z</sub>
 
 </div>

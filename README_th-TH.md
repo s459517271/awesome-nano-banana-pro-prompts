@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **12260** |
+| 📝 คำสั่งทั้งหมด | **12259** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 4 เมษายน พ.ศ. 2569 เวลา 0 นาฬิกา 10 นาที 29 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 4 เมษายน พ.ศ. 2569 เวลา 4 นาฬิกา 33 นาที 21 วินาที UTC** |
 
 </div>
 
@@ -6841,7 +6841,7 @@ Re : No.3 La Flamme Blanche
 
 <div align="center">
 
-### 🎯 12140 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 12139 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6904,6 +6904,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-04T00:10:29.580Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-04T04:33:21.038Z</sub>
 
 </div>

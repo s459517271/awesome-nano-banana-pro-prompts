@@ -135,9 +135,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **12260** |
+| 📝 Total des prompts | **12259** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **samedi 4 avril 2026 à 00:11:17 UTC** |
+| 🔄 Dernière mise à jour | **samedi 4 avril 2026 à 04:33:56 UTC** |
 
 </div>
 
@@ -7014,7 +7014,7 @@ J'apprécierais que le dos et le dessous du bouclier aient un rendu réaliste.
 
 <div align="center">
 
-### 🎯 12140 prompts supplémentaires non affichés ici
+### 🎯 12139 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7077,6 +7077,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-04T00:11:17.592Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-04T04:33:56.055Z</sub>
 
 </div>

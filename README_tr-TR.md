@@ -135,9 +135,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **12260** |
+| 📝 Toplam İstem | **12259** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **4 Nisan 2026 Cumartesi 00:11:50 UTC** |
+| 🔄 Son Güncelleme | **4 Nisan 2026 Cumartesi 04:34:20 UTC** |
 
 </div>
 
@@ -6979,7 +6979,7 @@ Sırt kısmının ve kalkanın alt tarafının gerçekçi görünmesini isterim.
 
 <div align="center">
 
-### 🎯 12140 burada gösterilmeyen daha fazla istem
+### 🎯 12139 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7042,6 +7042,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-04T00:11:50.289Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-04T04:34:20.532Z</sub>
 
 </div>

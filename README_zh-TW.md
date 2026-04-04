@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **12260** |
+| 📝 提示詞總數 | **12259** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年4月4日 星期六 凌晨12:10:04 [UTC]** |
+| 🔄 最後更新 | **2026年4月4日 星期六 凌晨4:33:05 [UTC]** |
 
 </div>
 
@@ -7027,7 +7027,7 @@ Re : No.3 La Flamme Blanche
 
 <div align="center">
 
-### 🎯 12140 更多提示詞未在此顯示
+### 🎯 12139 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7090,6 +7090,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-04T00:10:04.920Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-04T04:33:05.275Z</sub>
 
 </div>
